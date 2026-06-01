@@ -18,7 +18,7 @@ Welcome to my collection of certificates and badges earned during my learning jo
 ## 🎖️ Badges
 
 ### Badge 1
-![Badge 1](./public/8aug.png)
+<img src="public/50days.jpg" width="600">
 
 ### Badge 2
 ![Badge 2](./badges/badge2.png)
